@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Moei    mei@trainee     @MeiTrainee
 
 # THANKS
 
