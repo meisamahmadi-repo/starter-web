@@ -20,4 +20,4 @@ Please fork this repos and then issue pull requests for review.
 
 ### Copyright
 
-2018GitTraining
+2018GitTraining. Improving something for stash videoo
