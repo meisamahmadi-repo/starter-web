@@ -21,3 +21,7 @@ Please fork this repos and then issue pull requests for review. Emergency exit a
 ### Copyright
 
 2018GitTraining. Improving something for stash videoo
+
+## Where are we
+
+Multiple Changes for stashing, Multiple Multiple
