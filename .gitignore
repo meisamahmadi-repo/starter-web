@@ -1,3 +1,4 @@
 tobeignored.txt
 ignoreit/
 *.log
+*.orig
