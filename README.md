@@ -16,7 +16,7 @@ this is a simple web project, deployment can be on any web server or even local 
 
 ## How To Contribute
 
-Please fork this repos and then issue pull requests for review.
+Please fork this repos and then issue pull requests for review. Emergency exit after stash for quick fix.
 
 ### Copyright
 
